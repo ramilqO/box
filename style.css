@@ -1,0 +1,16 @@
+.box {
+	width: 200px;
+	height: 200px;
+	background: blue;
+	margin-left: 100px;
+}
+* {
+	/*display: flex;*/
+}
+
+.container {
+	display: flex;
+}
+.container-range{
+	display: block;
+}
